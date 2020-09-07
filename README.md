@@ -1,8 +1,7 @@
 # app2
 ###### 微前端项目中包含的子应用2对应的项目，此项目既可以单独运行，也可以在主项目的环境下运行，主项目访问链接如下：
-`
-https://github.com/DAHU123/micro-front-end
-`
+See [主项目microFE](https://github.com/DAHU123/micro-front-end).
+
 ## Project setup
 ```
 npm install
